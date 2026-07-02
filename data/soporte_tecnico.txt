@@ -1,0 +1,16 @@
+Soporte Técnico Interno
+
+Para reportar problemas técnicos, los colaboradores deben crear un ticket a través del sistema interno de soporte, indicando:
+
+1. Descripción detallada del problema.
+2. Área o sistema afectado.
+3. Nivel de urgencia (baja, media, alta, crítica).
+4. Capturas de pantalla o evidencia, si corresponde.
+
+El tiempo estimado de respuesta es de 24 horas hábiles para incidencias de prioridad media o baja, y de 4 horas para incidencias críticas que afecten la operación general.
+
+El equipo de soporte técnico se comunicará con el colaborador a través del mismo ticket o por correo corporativo para dar seguimiento a la solución.
+
+En caso de que el problema no pueda resolverse de forma remota, se coordinará una visita presencial o la derivación a un especialista del área correspondiente.
+
+Los colaboradores pueden consultar el estado de sus tickets en cualquier momento desde el portal interno.

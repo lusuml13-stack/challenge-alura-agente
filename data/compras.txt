@@ -1,0 +1,15 @@
+Procedimiento de Compras
+
+Toda compra debe ser solicitada mediante el formulario interno de requisición, disponible en el sistema de gestión de la empresa.
+
+Las compras se clasifican según su monto:
+
+- Compras menores a USD 500: pueden ser aprobadas directamente por el supervisor del área solicitante.
+- Compras entre USD 500 y USD 2000: requieren aprobación gerencial.
+- Compras superiores a USD 2000: requieren aprobación de la Dirección General y, en algunos casos, cotización de al menos dos proveedores.
+
+Una vez aprobada la solicitud, el área de Compras gestiona la orden de compra correspondiente y coordina con el proveedor seleccionado.
+
+El tiempo estimado de procesamiento de una solicitud de compra es de 3 a 5 días hábiles, dependiendo del monto y la disponibilidad del proveedor.
+
+Todo colaborador debe conservar los comprobantes de compra para su posterior rendición de cuentas.

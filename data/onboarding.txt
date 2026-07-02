@@ -1,0 +1,12 @@
+Proceso de Onboarding
+
+Todo nuevo colaborador debe seguir los siguientes pasos durante su primera semana:
+
+1. Recibir acceso al correo corporativo y a las herramientas internas de comunicación.
+2. Completar los cursos de inducción sobre cultura organizacional y políticas de la empresa.
+3. Solicitar acceso a los sistemas internos correspondientes a su área (ERP, CRM, repositorios de código, según aplique).
+4. Revisar y firmar las políticas de seguridad de la información y confidencialidad.
+5. Reunirse con su supervisor directo para definir objetivos del primer mes.
+6. Ser presentado formalmente al equipo de trabajo.
+
+El proceso de onboarding completo tiene una duración estimada de 5 días hábiles. El área de Recursos Humanos es responsable de coordinar cada etapa junto con el supervisor inmediato del nuevo colaborador.
