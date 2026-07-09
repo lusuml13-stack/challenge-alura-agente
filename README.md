@@ -2,49 +2,42 @@
 
 ## Descripción
 
-Agente de IA capaz de responder preguntas sobre políticas internas, onboarding, vacaciones, compras y soporte técnico utilizando documentación corporativa como base de conocimiento (RAG).
+Agente de consultas internas empresariales capaz de responder preguntas sobre onboarding, vacaciones, compras y soporte técnico utilizando documentación corporativa como base de conocimiento.
 
 ## Estado
 
 🚧 En desarrollo
 
-## Arquitectura y tecnologías previstas
+### Implementado
 
-- Python
+- Base de conocimiento documental
+- Lectura de documentos TXT
+- Lectura de FAQ CSV
+- Consultas por consola
+- Búsqueda por palabras clave
+- Búsqueda mediante sinónimos
+- Búsqueda con sistema de puntuación
+
+### Próximos pasos
+
+- Mejorar precisión de búsqueda
+- Evolucionar hacia un sistema RAG
+- Crear interfaz web
+- Desplegar la aplicación
+
+## Tecnologías utilizadas actualmente
+
+- Python 3
+- CSV
+- Archivos TXT
+- Git
+- GitHub
+
+## Tecnologías previstas
+
 - LangChain
 - Gemini API
-- Base de conocimiento en `.txt` / `.csv`
-- Despliegue: Streamlit u Oracle Cloud Infrastructure (OCI)
+- Streamlit
+- Oracle Cloud Infrastructure (OCI)
 
 ## Estructura del proyecto
-
-```
-challenge-alura-agente/
-│
-├── data/          # Documentos base de conocimiento (onboarding, vacaciones, compras, soporte, FAQ)
-├── src/           # Código fuente del agente
-├── docs/          # Capturas de pantalla y documentación adicional
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
-## Instalación
-
-```bash
-git clone https://github.com/lusuml13-stack/challenge-alura-agente.git
-cd challenge-alura-agente
-pip install -r requirements.txt
-```
-
-## Ejemplos de prompts y respuestas
-
-_Se completará a medida que el agente esté funcional._
-
-## Autor
-
-# Lucía Susana Mendoza León
-
-# challenge-alura-agente
-
-Agente de IA para consultas internas empresariales basado en documentación corporativa.
