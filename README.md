@@ -41,3 +41,47 @@ Agente de consultas internas empresariales capaz de responder preguntas sobre on
 - Oracle Cloud Infrastructure (OCI)
 
 ## Estructura del proyecto
+
+```text
+challenge-alura-agente/
+│
+├── data/
+│   ├── onboarding.txt
+│   ├── vacaciones.txt
+│   ├── compras.txt
+│   ├── soporte_tecnico.txt
+│   └── faq.csv
+│
+├── docs/
+│   ├── pruebas.md
+│   ├── captura-github.png
+│   ├── captura-consulta-vacaciones.png
+│   └── captura-consulta-soporte.png
+│
+├── src/
+│   └── main.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```text
+challenge-alura-agente/
+...
+└── .gitignore
+```
+## Evidencias
+
+Las capturas de funcionamiento del proyecto se encuentran en la carpeta `docs`.
+
+### Capturas disponibles
+
+- captura-github.png
+- captura-consulta-vacaciones.png
+- captura-consulta-soporte.png
+
+
+
+
+
+
+ 
