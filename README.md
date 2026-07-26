@@ -79,6 +79,7 @@ Las capturas de funcionamiento del proyecto se encuentran en la carpeta `docs`.
 - captura-consulta-vacaciones.png
 - captura-consulta-soporte.png
 - captura-streamlit.png
+- captura-demo-final.png
 
 
 
