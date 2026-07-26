@@ -6,7 +6,7 @@ Agente de consultas internas empresariales capaz de responder preguntas sobre on
 
 ## Estado
 
-🚧 En desarrollo
+✅ Versión funcional disponible
 
 ### Implementado
 
@@ -23,7 +23,7 @@ Agente de consultas internas empresariales capaz de responder preguntas sobre on
 
 - Mejorar precisión de búsqueda
 - Evolucionar hacia un sistema RAG
-- Desplegar la aplicación
+
 
 ## Tecnologías utilizadas actualmente
 
@@ -112,3 +112,9 @@ Lucía Mendoza León
 ## Repositorio
 
 https://github.com/lusuml13-stack/challenge-alura-agente
+
+## Demo online
+
+La aplicación desplegada puede consultarse en:
+
+https://alura-agente-lucia.streamlit.app
