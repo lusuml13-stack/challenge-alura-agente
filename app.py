@@ -29,19 +29,26 @@ st.divider()
 with st.sidebar:
     st.header("ℹ️ Sobre este agente")
     st.write(
-        "Responde preguntas sobre políticas y procesos internos "
-        "usando documentación corporativa como base de conocimiento."
-    )
+    "Permite consultar información sobre onboarding, "
+    "vacaciones, compras y soporte técnico utilizando "
+    "documentación interna como base de conocimiento."
+)
+    
     st.subheader("📂 Temas disponibles")
     st.markdown(
-        "- 👋 Onboarding\n"
-        "- 🏖️ Vacaciones\n"
-        "- 🛒 Compras\n"
-        "- 🛠️ Soporte técnico"
+        " 👋 Onboarding\n"
+        " 🏖️ Vacaciones\n"
+        " 🛒 Compras\n"
+        " 🛠️ Soporte técnico"
     )
     st.divider()
-    st.caption("Versión 1 · Búsqueda por palabras clave y sinónimos")
-    st.caption("Próximo paso: migrar a RAG con LangChain + Gemini")
+    st.caption(
+    "Versión 1.0 · FAQ, búsqueda documental y sinónimos"
+)
+
+    st.caption(
+    "Próxima evolución: recuperación contextual mediante RAG."
+)
 
 # ----- Preguntas de ejemplo (atajos) -----
 st.write("**Probá con una pregunta frecuente:**")
