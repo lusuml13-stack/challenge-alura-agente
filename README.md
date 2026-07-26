@@ -17,12 +17,12 @@ Agente de consultas internas empresariales capaz de responder preguntas sobre on
 - Búsqueda por palabras clave
 - Búsqueda mediante sinónimos
 - Búsqueda con sistema de puntuación
+- Interfaz web desarrollada con Streamlit
 
 ### Próximos pasos
 
 - Mejorar precisión de búsqueda
 - Evolucionar hacia un sistema RAG
-- Crear interfaz web
 - Desplegar la aplicación
 
 ## Tecnologías utilizadas actualmente
@@ -32,18 +32,19 @@ Agente de consultas internas empresariales capaz de responder preguntas sobre on
 - Archivos TXT
 - Git
 - GitHub
+- Streamlit
 
 ## Tecnologías previstas
 
 - LangChain
 - Gemini API
-- Streamlit
-- Oracle Cloud Infrastructure (OCI)
 
 ## Estructura del proyecto
 
 ```text
 challenge-alura-agente/
+│
+├── app.py
 │
 ├── data/
 │   ├── onboarding.txt
@@ -56,7 +57,9 @@ challenge-alura-agente/
 │   ├── pruebas.md
 │   ├── captura-github.png
 │   ├── captura-consulta-vacaciones.png
-│   └── captura-consulta-soporte.png
+│   ├── captura-consulta-soporte.png
+│   ├── captura-streamlit.png
+│   └── captura-demo-final.png
 │
 ├── src/
 │   └── main.py
@@ -64,11 +67,8 @@ challenge-alura-agente/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```text
-challenge-alura-agente/
-...
-└── .gitignore
 ```
+
 ## Evidencias
 
 Las capturas de funcionamiento del proyecto se encuentran en la carpeta `docs`.
@@ -81,9 +81,34 @@ Las capturas de funcionamiento del proyecto se encuentran en la carpeta `docs`.
 - captura-streamlit.png
 - captura-demo-final.png
 
+## Funcionalidades implementadas
 
+✅ Lectura de documentos TXT
 
+✅ Lectura de archivo FAQ CSV
 
+✅ Consultas interactivas
 
+✅ Búsqueda por palabras clave
 
- 
+✅ Sistema de sinónimos para mejorar coincidencias
+
+✅ Sistema de puntuación por relevancia
+
+✅ Respuestas basadas en documentación interna empresarial
+
+✅ Interfaz web desarrollada con Streamlit
+
+## Objetivo del proyecto
+
+Este proyecto forma parte del Challenge Alura ONE AI for Tech.
+
+El objetivo es evolucionar progresivamente desde una búsqueda basada en palabras clave hacia un sistema de recuperación de información más avanzado utilizando técnicas de RAG (Retrieval-Augmented Generation).
+
+## Autor
+
+Lucía Mendoza León
+
+## Repositorio
+
+https://github.com/lusuml13-stack/challenge-alura-agente
